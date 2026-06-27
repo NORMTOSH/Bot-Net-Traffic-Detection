@@ -17,6 +17,7 @@ The notebook uses the **N-BaIoT** dataset (loaded from Kaggle input files), cont
 - Mirai attack variants
 - Gafgyt attack variants
 - Device metadata and feature descriptions
+- Link: https://www.kaggle.com/code/normangitosh/machine-learning-for-detecting-botnet-traffic
 
 ## Project Workflow
 1. Load device and feature information
